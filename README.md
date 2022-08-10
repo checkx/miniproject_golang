@@ -3,8 +3,15 @@
 ## CAP go miniproject using Echo framework, GORM, and Postgresql
 
 ### This Project use 2 domain 
-1. Users
-2. Books
+1. Users : Create, Login, Get data
+2. Books : Create, Update, Delete, Get Data
+
+### Inside the project
+1. Miniproject using ECHO Framework, GORM and Postgresql
+2. Using Clean Architecture Pattern Design
+3. JWT Token
+3. Hasing from bcrypt package
+4. Unit Testing
 
 ### Users can 
 ```
